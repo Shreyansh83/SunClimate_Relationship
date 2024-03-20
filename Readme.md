@@ -4,7 +4,7 @@ This repository contains the research and analysis conducted in the study of the
 
 ## Repository Structure
 
-- `/Data` - Contains datasets used in the analysis.
+- `/Data` - Contains datasets used in the analysis. (Download from link - https://www.kaggle.com/datasets/shreyansh83/climate-and-sun-data-2003-14)
 - `/Scripts` - Jupyter notebooks with the data analysis.
 - `/Docs` - The dissertation document and related materials.
 - `/Images` - Visualizations and figures generated from the analysis.
