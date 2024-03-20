@@ -26,14 +26,14 @@ This repository contains the research and analysis conducted in the study of the
 
 - Python 3.x
 - Libraries:
-	matplotlib          3.4.3
-	numpy               1.22.4
-	pandas              2.0.3
-	plotly              5.16.1
-	seaborn             0.11.2
-	session_info        1.0.0
-	statsmodels         0.15.0.dev44+g3b61c469e
-	xarray              2023.6.0
+	- matplotlib          3.4.3
+	- numpy               1.22.4
+	- pandas              2.0.3
+	- plotly              5.16.1
+	- seaborn             0.11.2
+	- session_info        1.0.0
+	- statsmodels         0.15.0.dev44+g3b61c469e
+	- xarray              2023.6.0
 
 ## More Information
 
